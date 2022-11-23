@@ -1,2 +1,2 @@
-# wss0602.github.com
+# wss0602.github.io
 meu site
